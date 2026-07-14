@@ -37,4 +37,7 @@ ________________________________________
 
 - **Q_s_20t_1000g**: Dictionary with the trained agent's parameters.
 _______________________________________
-Future work: longer training against Stockfish with variable ELO, so that our model learns to play against a potential human user. In fact, in a sense it is easier to learn to beat Stockfish because of it's predictability, due to the constant performance of the best moves.
+Future work: 
+- Longer training against Stockfish with variable ELO, so that our model learns to play against a potential human user. In fact, in a sense it is easier to learn to beat Stockfish because of it's predictability, due to the constant performance of the best moves.
+- Averaging results
+
